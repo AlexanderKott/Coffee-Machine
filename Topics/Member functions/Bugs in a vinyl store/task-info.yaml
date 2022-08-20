@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // fix it
+    class VinylStore(vinyl: String) {
+        fun printVinyl() {
+            println(this.vinyl)
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20649#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 20 Aug 2022 14:17:28 UTC
+record: -1

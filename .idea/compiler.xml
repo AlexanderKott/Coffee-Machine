@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructors-Implicit_constructor.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructors-Init_usage.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructors-Point2D.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructors-Reddit.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructors-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_classes-Composition.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_classes-Possible_properties_types.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_classes-True_statements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Concatenate_3_strings_with_separator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Declarations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Determine_the_result.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Gratuity.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Invocations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Summation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Currencies.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Danger_level.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Properties_of_Enum.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Application_as_a_class.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Correct_invocations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Invocations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Named_arguments-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Named_arguments-URL.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Facts_about_getters.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Implement_a_class.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Weather_comparison.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
